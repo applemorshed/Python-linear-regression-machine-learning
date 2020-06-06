@@ -1,8 +1,6 @@
 import numpy
 
-# NOTE: This template makes use of Python classes. If
-# you are not yet familiar with this concept, you can
-# find a short introduction here:
+# short introduction of class is here:
 # http://introtopython.org/classes.html
 
 
